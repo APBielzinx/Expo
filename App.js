@@ -26,7 +26,7 @@ export default function App() {
            <TouchableOpacity style = {{width:'80%'}}>
 
               <LinearGradient
-              colors = {['blue', '#993399']}
+              colors = {['blue', '#5d46e2']}
               style={estilo.button}
 
               >
