@@ -67,6 +67,9 @@ Links:{
   alignItems: 'center',
   flexDirection: "row",
   marginTop: 10,
+  color:'blue'
+ 
+
   
 
 },
@@ -76,6 +79,7 @@ teste:{
   
 
 }
+
 
 })
 
