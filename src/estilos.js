@@ -42,6 +42,7 @@ viewIcons:{
     alignItems: 'center',
     flexDirection: "row",
     marginTop: 35
+    
 },
 button:{
     padding: 20,
@@ -58,6 +59,22 @@ Text: {
 Image:{
   width:180,
   height:180
+},
+
+Links:{
+  width: '100%',
+  justifyContent: "center",
+  alignItems: 'center',
+  flexDirection: "row",
+  marginTop: 10,
+  
+
+},
+
+teste:{
+  paddingRight:15
+  
+
 }
 
 })

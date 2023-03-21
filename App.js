@@ -2,7 +2,7 @@ import React from "react";
 import { View} from "react-native";
 import estilo from "./src/estilos";
 import Header  from "./src/components/header";
-import Inputs from "./src/components/formEntrar";
+import Box from "./src/components/Box";
 import Footer from "./src/components/footer";
 
 
@@ -11,7 +11,7 @@ export default function App() {
     <View styles={estilo.container}>
      
      <Header></Header>
-    <Inputs></Inputs>
+    <Box></Box>
     <Footer></Footer>
      
       </View>

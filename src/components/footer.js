@@ -6,9 +6,9 @@ import estilo from "../estilos"
 export default function Footer(){
     return(
       
-        <View>
-        <Text  href="http://google.com" color='black'> esqueci a senha</Text>
-        <Text  href="http://google.com" color='black'> Cadastrar-se</Text>
+        <View style={estilo.Links}>
+        <Text style={estilo.teste}  href="http://google.com" > Esqueci a Senha</Text>
+        <Text  href="http://google.com" > Cadastrar-se</Text>
         </View>
       
 

@@ -4,7 +4,7 @@ import { Feather } from "@expo/vector-icons";
 import { FontAwesome5 } from "@expo/vector-icons";
 import estilo from "../estilos";
 
-export default function FormEntrar(){
+export default function Box(){
     return(
         /* View com as entradas de dados*/
         <View style={estilo.box}>
