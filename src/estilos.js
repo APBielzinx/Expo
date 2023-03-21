@@ -53,6 +53,7 @@ button:{
 Text: {
   fontWeight: "bold",
   color: "white",
+   
 },
 Image:{
   width:180,
